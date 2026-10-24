@@ -1,0 +1,12 @@
+{
+  "name": "genpark-autonomous-session-anomaly-detector-skill",
+  "version": "1.0.0",
+  "description": "Multi-dimensional session anomaly detector analyzing velocity vectors, keystroke entropy, and hop velocities",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["anomaly-detection", "session-security", "account-takeover", "velocity-vector", "mahalanobis", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
